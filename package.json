@@ -1,5 +1,5 @@
 {
-  "name": "angular-on-hero",
+  "name": "angular-on-heroku",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
